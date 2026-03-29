@@ -36,7 +36,7 @@ No hourly billing, no scope creep. Clear deliverables, fixed timelines.
 If your team is on Claude and wants to move faster, we should talk.
 
 **Website:** [kithps.com](https://kithps.com)
-**Book a call:** [Schedule with our team](https://meetings-na2.hubspot.com/neil-burch)
+**Book a call:** [Schedule with our team](https://meetings-na2.hubspot.com/kps/engage)
 
 ---
 
