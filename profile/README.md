@@ -1,0 +1,43 @@
+# Kith Precision Services
+
+**Helping You Thrive in a World of Change.**
+
+---
+
+## Who We Are
+
+Kith Precision Services is an AI consulting firm built exclusively around Anthropic's Claude platform. We help companies on Claude Team and Enterprise plans deploy real workflows, train their teams, and get measurable outcomes — not slide decks.
+
+Every engagement is senior-led. No handoffs to junior staff, no bait-and-switch. You get experienced engineers who know Claude deeply and ship working solutions.
+
+## What You'll Find Here
+
+This organization hosts the tools and resources we build in the course of our work:
+
+- **Client tooling** — utilities and integrations developed during engagements
+- **Internal systems** — the infrastructure that powers how we deliver
+- **Open resources** — guides, templates, and reference implementations for teams working with Claude
+
+## Kith Library
+
+Kith Library is our prompt and playbook library — a curated collection of production-tested prompts, workflows, and adoption playbooks built to accelerate Claude deployment for client teams. It's the foundation we bring into every engagement and continuously refine based on what we see working across organizations.
+
+## Engagement Options
+
+We offer fixed-fee Rapid Launch Pilots to get teams from evaluation to production quickly:
+
+- **Starter Pilot** — $15K | 3 weeks | 1 use case deployed end-to-end
+- **Advanced Pilot** — $38K | 4–6 weeks | 2–3 use cases with deeper integration
+
+No hourly billing, no scope creep. Clear deliverables, fixed timelines.
+
+## Work With Us
+
+If your team is on Claude and wants to move faster, we should talk.
+
+**Website:** [kithps.com](https://kithps.com)
+**Book a call:** [Schedule with our team](https://meetings-na2.hubspot.com/neil-burch)
+
+---
+
+&copy; 2026 Kith Precision Services. All rights reserved.
